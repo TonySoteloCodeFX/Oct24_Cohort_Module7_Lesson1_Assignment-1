@@ -7,38 +7,40 @@
 
 <h4><i>Task 1: Creating Lists</i></h4> 
 
-Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short paragraph description. Then, add the ingredients into an unordered list and the steps into an ordered list. You can use the following information:
+- Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short paragraph description. 
+
+- Then, add the ingredients into an unordered list and the steps into an ordered list. You can use the following information:
 
 <b>Ingredients:</b>
 
 1. 1 cup (2 sticks) unsalted butter, softened
 <br>
 
-2. 3/4 cup granulated sugar
+1. 3/4 cup granulated sugar
 <br>
 
-3. 3/4 cup packed brown sugar
+1. 3/4 cup packed brown sugar
 <br>
 
-4. 1 teaspoon vanilla extract
+1. 1 teaspoon vanilla extract
 <br>
 
-5. 2 large eggs
+1. 2 large eggs
 <br>
 
-6. 2 1/4 cups all-purpose flour
+1. 2 1/4 cups all-purpose flour
 <br>
 
-7. 1 teaspoon baking soda
+1. 1 teaspoon baking soda
 <br>
 
-8. 1/2 teaspoon salt
+1. 1/2 teaspoon salt
 <br>
 
-9.  2 cups semisweet chocolate chips
+1.  2 cups semisweet chocolate chips
 <br>
 
-10. 1 cup chopped nuts (optional)
+1.  1 cup chopped nuts (optional)
 
 <b>Steps:</b>
 
